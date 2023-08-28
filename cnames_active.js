@@ -1589,6 +1589,7 @@ var cnames_active = {
   "landrielportafolio": "arielandriel30.github.io/landrielportafolio",
   "languages": "rsamaium.github.io/Languages",
   "lanye": "lanye.github.io",
+  "lars": "orgerjap.github.io",
   "larastrator": "the94air.github.io/larastrator",
   "lasers": "lukehorvat.github.io/need-more-lasers",
   "lass": "lassjs.github.io/lass",
